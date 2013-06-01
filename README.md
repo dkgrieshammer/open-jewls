@@ -10,3 +10,5 @@ Cobbled together with [Processing](http://processing.org/) / Java and the great 
 It's pretty alpha and there is great chance to crash the app especially with wiring vronoi-cuts, but you can already export valid .stl-files for printing;
 
 ![printed examples](http://dkgrieshammer.de/wp-content/uploads/2013/01/OpenJewls_02.jpg)
+
+![printed examples](http://dkgrieshammer.de/wp-content/uploads/2013/01/OpenJewls_031.jpg)
