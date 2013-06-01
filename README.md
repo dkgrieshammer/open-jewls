@@ -1,6 +1,6 @@
 
 
-### Open Jewls - open source product design 
+## Open Jewls - open source product design 
 
 ![Open Jewls - open source product design software prototype; 2012 by dkgrieshammer](http://dkgrieshammer.de/wp-content/uploads/2013/01/RingEdit.jpg)
 
